@@ -1,7 +1,7 @@
 # fbb
 FBB+ tool for facebook bruteforce attack 
 # follow installation 
-# $ git clone https://github.com/Cabdulahi/fbb
+# $ git clone https://github.com/CyberDomba/Fb-Target
 # $ cd fbb
 # $ chmod +X 
 # $ bash install.sh
